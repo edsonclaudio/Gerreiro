@@ -1,0 +1,7 @@
+{
+  "name": "Kimbila - Gestão Fácil",
+  "description": "Uma aplicação de gestão simplificada para microempreendedores informais, zungueiras e pequenos negócios, com controle de vendas, estoque, dívidas e consultoria por IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
